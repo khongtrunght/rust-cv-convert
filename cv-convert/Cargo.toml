@@ -25,7 +25,7 @@ default = [
 docs-only = [
     'image_0-24',
     'imageproc_0-23',
-    'opencv_0-85',
+    'opencv_0-93',
     'tch_0-14',
     'nalgebra_0-32',
     'ndarray_0-15',
